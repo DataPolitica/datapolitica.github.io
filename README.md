@@ -1,16 +1,41 @@
-# Data Política
-Un espacio para el aprendizaje de estadística en ciencias sociales
+# Sobre Data Política
+En esta página podrás encontrar información que te ayudará en el aprendizaje de estadística aplicada a las ciencias sociales. También puedes chequear mi canal de youtube [Data Política](https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A), en el cual he compartido algunos tutoriales sobre los principales temas en estadística aplicada. Esta es una iniciativa personal en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú.
+
+## Introducción a la Estadística 
+
+1. ¿Qué es el R Studio y cómo se instala?
+2. List
 
 
-                          <iframe width="560" height="315" src="https://www.youtube.com/embed/-p02G7NXlSk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Estadística Descriptiva
+
+1. ¿Qué es el R Studio y cómo se instala?
+2. List
+
+## Estadística Inferencial
+
+1. ¿Qué es el R Studio y cómo se instala?
+2. List
 
 
 
-## Welcome to GitHub Pages
+### Sobre el autor
 
-You can use the [editor on GitHub](https://github.com/DataPolitica/ooooo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Christian Chiroque Ruiz. Politólogo con Maestría en Gerencia Social con mención en proyectos de desarrollo. Especialista en Estadística Aplicada por la Escuela Nacional de Estadística. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
+
+
+
+
 
 ### Markdown
 
@@ -40,6 +65,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DataPolitica/ooooo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
