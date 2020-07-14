@@ -5,20 +5,27 @@ Esta es una iniciativa personal en el marco de mi labor docente en la Facultad d
 
 ## Introducción a la Estadística 
 
-1. ¿Qué es el R Studio y cómo se instala?
-2. List
+1.1 ¿Qué es el R Studio y cómo se instala?
+1.2 ¿Cómo se programa en R?
 
 
 ## Estadística Descriptiva
 
-1. ¿Qué es el R Studio y cómo se instala?
-2. List
+2.1 Estadísticos de tendencia central
+2.2 Tablas de contingencia
+2.3 Gráficos
 
 ## Estadística Inferencial
 
-1. ¿Qué es el R Studio y cómo se instala?
-2. List
+3.1 Intervalos de confianza 
+3.2 Pruebas de normalidad
+3.3 Prueba T de Student
 
+## Modelamiento
+
+4.0 Verificación de Supuestos
+4.1 Regresión Lineal Simple
+4.2 Regresión Lineal Múltiple
 
 
 ### Sobre el autor
