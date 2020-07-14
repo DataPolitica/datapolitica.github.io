@@ -24,7 +24,7 @@ Esta es una iniciativa personal en el marco de mi labor docente en la Facultad d
 ## Modelamiento
 
 - Verificación de Supuestos
-- Regresión Lineal Simple
+- [Regresión Lineal Simple] (https://datapolitica.github.io/salidas/Prueba1.html)
 - Regresión Lineal Múltiple
 
 
