@@ -20,6 +20,10 @@ Esta es una iniciativa personal en el marco de mi labor docente en la Facultad d
 - Intervalos de confianza 
 - Pruebas de normalidad
 - Prueba T de Student
+- ANOVA de un factor
+- Chi cuadrado
+- Medidas de asociación (categóricas)
+- Correlación
 
 ## Modelamiento
 
