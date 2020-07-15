@@ -26,7 +26,7 @@ Esta es una iniciativa personal en el marco de mi labor docente en la Facultad d
 - Verificación de Supuestos
 - [Regresión Lineal Simple](https://datapolitica.github.io/salidas/regresion_lineal_simple.html)
 - [Regresión Lineal Múltiple](https://datapolitica.github.io/salidas/regresion_lineal_multiple.html)
-- [Inclusión de categóricas en modelos de regresión](https://datapolitica.github.io/salidas/regresion_inclusion_categoricas.html)
+- [Inclusión de categóricas en modelos de regresión](https://datapolitica.github.io/salidas/regresion_categoricas.html)
 
 
 
