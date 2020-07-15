@@ -24,8 +24,8 @@ Esta es una iniciativa personal en el marco de mi labor docente en la Facultad d
 ## Modelamiento
 
 - Verificación de Supuestos
-- [Regresión Lineal Simple](https://datapolitica.github.io/salidas/Inferencial/Lineal_simple.html)
-- Regresión Lineal Múltiple
+- [Regresión Lineal Simple](https://datapolitica.github.io/salidas/regresion_lineal_simple.html)
+- [Regresión Lineal Múltiple](https://datapolitica.github.io/salidas/regresion_lineal_multiple.html)
 - Inclusión de categóricas en modelos de regresión
 
 
