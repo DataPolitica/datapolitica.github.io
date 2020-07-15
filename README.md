@@ -9,7 +9,7 @@ Esta es una iniciativa personal en el marco de mi labor docente en la Facultad d
 
 - ¿Qué es el R Studio y cómo se instala?
 - ¿Cómo se programa en R?
-
+- Fuentes de información
 
 ## Estadística Descriptiva
 
