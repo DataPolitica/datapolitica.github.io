@@ -3,8 +3,8 @@ En esta página podrás encontrar información que te ayudará en el aprendizaje
 
 Esta es una iniciativa personal en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú.
 
-![Image](images/logo.png)
-_____________________________________________________________________________________________________________________________________
+_______________________________________________________________________________________________________________________________________
+
 # Contenido
 
 # Primera Parte
@@ -43,3 +43,6 @@ ________________________________________________________________________________
 # Sobre el autor
 
 [Christian Chiroque Ruiz](https://www.linkedin.com/in/christianchr/). Politólogo y candidato a Maestro en Gerencia Social, con mención en Gerencia de Programas y Proyectos de Desarrollo, por la Pontificia Universidad Católica del Perú. Especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática. Docente - Youtuber PUCP.
+
+
+![Image](images/logo.png)
