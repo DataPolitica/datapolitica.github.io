@@ -38,8 +38,15 @@ ________________________________________________________________________________
 - [Regresión Lineal Múltiple](https://datapolitica.github.io/salidas/regresion_lineal_multiple.html)
 - [Inclusión de categóricas en modelos de regresión](https://datapolitica.github.io/salidas/regresion_categoricas.html)
 
+_______________________________________________________________________________________________________________________________________
 
+# Sedunda Parte
 
+- Análisis factorial
+- Análisis de conglomerados
+  - Análisis por 
+
+_______________________________________________________________________________________________________________________________________
 # Sobre el autor
 
 [Christian Chiroque Ruiz](https://www.linkedin.com/in/christianchr/). Politólogo y candidato a Maestro en Gerencia Social, con mención en Gerencia de Programas y Proyectos de Desarrollo, por la Pontificia Universidad Católica del Perú. Especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática. Docente - Youtuber PUCP.
