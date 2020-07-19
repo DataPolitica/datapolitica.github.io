@@ -8,6 +8,12 @@ Esta es una iniciativa personal en el marco de mi labor docente en la Facultad d
 
 # Contenido
 
+
+
+![Image](images/logo.png)
+
+
+
 ## Introducción a la Estadística 
 
 - ¿Qué es el R Studio y cómo se instala?
