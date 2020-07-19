@@ -4,6 +4,8 @@ En esta página podrás encontrar información que te ayudará en el aprendizaje
 Esta es una iniciativa personal en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú.
 
 
+<img src="https://github.com/DataPolitica/datapolitica.github.io/blob/master/images/logo.png">
+
 # Contenido
 
 ## Introducción a la Estadística 
