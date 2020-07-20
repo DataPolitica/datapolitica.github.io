@@ -10,6 +10,7 @@ Esta es una iniciativa personal en el marco de mi labor docente en la Facultad d
 # Primera Parte
 
 _______________________________________________________________________________________________________________________________________
+
 ![Image](images/intro.png)
 
 ## Introducción al R Studio
@@ -17,6 +18,7 @@ ________________________________________________________________________________
 - ¿Qué es el R Studio y cómo se instala?
 - ¿Cómo se programa en R?
 - Fuentes de información
+
 _______________________________________________________________________________________________________________________________________
 ![Image](images/descriptiva.png)
 
