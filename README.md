@@ -1,7 +1,7 @@
 # Presentación
 Hola, mi nombre es Christian Chiroque y bienvenidos a Data Política. Aquí podrás encontrar información que te ayudará en el aprendizaje de estadística aplicada al análisis político y social. También puedes chequear directamente mi canal de Youtube [Data Política](https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A), espacio en el cual vengo compartiendo tutoriales sobre los principales temas en estadística aplicada usando el software R Studio y SPSS. 
 
-Esta es una iniciativa personal desarrollada desde el 16 de mayo del 2019, en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú.
+Esta es una iniciativa personal desarrollada desde el 16 de mayo del 2019, en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú - PUCP.
 
 
 # Contenido
