@@ -17,6 +17,8 @@ ________________________________________________________________________________
 - ¿Cómo se programa en R?
 - Fuentes de información
 
+![Image](images/descriptiva.png)
+
 ## Estadística Descriptiva
 
 - Estadísticos de tendencia central
