@@ -9,7 +9,7 @@ ________________________________________________________________________________
 
 # Primera Parte
 
-![Image](images/logo.png)
+![Image](images/rstudio.png)
 
 ## Introducción al R Studio
 
