@@ -9,7 +9,9 @@ ________________________________________________________________________________
 
 # Primera Parte
 
-## Introducción a la Estadística 
+![Image](images/logo.png)
+
+## Introducción al R Studio
 
 - ¿Qué es el R Studio y cómo se instala?
 - ¿Cómo se programa en R?
