@@ -25,6 +25,7 @@ ________________________________________________________________________________
 - Tablas de contingencia
 - Gráficos
 
+
 ![Image](images/inferencial.png)
 
 ## Estadística Inferencial
