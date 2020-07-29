@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
+# Presentación
+Hola, mi nombre es Christian Chiroque y bienvenidos a Data Política. Aquí podrás encontrar información que te ayudará en el aprendizaje de estadística aplicada al análisis político y social. También puedes chequear directamente mi canal de Youtube [Data Política](https://www.youtube.com/channel/UCjsP5ejsSyUchRl2oA96J3A), espacio en el cual vengo compartiendo tutoriales sobre los principales temas en estadística aplicada usando el software R Studio y SPSS. 
 
-You can use the [editor on GitHub](https://github.com/DataPolitica/datapolitica.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Esta es una iniciativa personal desarrollada desde el 16 de mayo del 2019, en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú - PUCP.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+# Contenido
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Primera Parte
 
-```markdown
-Syntax highlighted code block
+_______________________________________________________________________________________________________________________________________
 
-# Header 1
-## Header 2
-### Header 3
+![Image](images/intro.png)
 
-- Bulleted
-- List
+## Introducción al R Studio
 
-1. Numbered
-2. List
+- ¿Qué es el R Studio y cómo se instala?
+- ¿Cómo se programa en R?
+- Fuentes de información
 
-**Bold** and _Italic_ and `Code` text
+_______________________________________________________________________________________________________________________________________
+![Image](images/descriptiva.png)
 
-[Link](url) and ![Image](src)
-```
+## Estadística Descriptiva
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Estadísticos de tendencia central
+- Tablas de contingencia
+- Gráficos
 
-### Jekyll Themes
+_______________________________________________________________________________________________________________________________________
+![Image](images/inferencial.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DataPolitica/datapolitica.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Estadística Inferencial
 
-### Support or Contact
+- Intervalos de confianza 
+- Pruebas de normalidad
+- Prueba T de Student
+- ANOVA de un factor
+- Chi cuadrado
+- Medidas de asociación (categóricas)
+- Correlación
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+_______________________________________________________________________________________________________________________________________
+
+![Image](images/regresion.png)
+## Modelamiento
+
+- [Verificación de Supuestos](https://datapolitica.github.io/Prueba1)
+- [Regresión Lineal Simple](https://datapolitica.github.io/salidas/regresion_lineal_simple.html)
+- [Regresión Lineal Múltiple](https://datapolitica.github.io/salidas/regresion_lineal_multiple.html)
+- [Inclusión de categóricas en modelos de regresión](https://datapolitica.github.io/salidas/regresion_categoricas.html)
+
+_______________________________________________________________________________________________________________________________________
+
+# Segunda Parte
+_______________________________________________________________________________________________________________________________________
+
+- Análisis factorial
+- Análisis de conglomerados
+  - Análisis por 
+
+_______________________________________________________________________________________________________________________________________
+# Sobre el autor
+
+[Christian Chiroque Ruiz](https://www.linkedin.com/in/christianchr/). Politólogo y candidato a Maestro en Gerencia Social, con mención en Gerencia de Programas y Proyectos de Desarrollo, por la Pontificia Universidad Católica del Perú. Especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática. Docente - Youtuber PUCP.
+
+
+![Image](images/logo.png)
