@@ -4,7 +4,7 @@ Hola, mi nombre es Christian Chiroque y bienvenidos a Data Política. Aquí podr
 Esta es una iniciativa personal desarrollada desde el 16 de mayo del 2019, en el marco de mi labor docente en la Facultad de Ciencias Sociales de la Pontificia Universidad Católica del Perú - PUCP.
 
 
-# Contenido
+# >Contenido
 
 # Primera Parte
 
@@ -60,9 +60,6 @@ ________________________________________________________________________________
   - Análisis por 
 
 _______________________________________________________________________________________________________________________________________
-# Sobre el autor
+# >Sobre el autor
 
 [Christian Chiroque Ruiz](https://www.linkedin.com/in/christianchr/). Politólogo y candidato a Maestro en Gerencia Social, con mención en Gerencia de Programas y Proyectos de Desarrollo, por la Pontificia Universidad Católica del Perú. Especialista en Estadística Aplicada por la Escuela Nacional de Estadística e Informática. Docente - Youtuber PUCP.
-
-
-![Image](images/logo.png)
